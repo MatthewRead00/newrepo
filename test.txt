@@ -1,3 +1,7 @@
 Hello World, I am testing GIT once again!
 
 :) Have a nice day!
+
+Hello again, I am just making a few extra changes to test out GIT Source Control.
+
+SMILE :)
